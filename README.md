@@ -16,7 +16,7 @@ Before you begin, make sure you have the following installed:
 Clone the React.js project repository using Git:
 
 ```bash
-git clone <https://github.com/watermelonich/Typescript-Gym-WebApp.git>
+git clone https://github.com/watermelonich/Typescript-Gym-WebApp.git
 ```
 
 ### Step 2: Navigate to the Project Directory
@@ -24,7 +24,7 @@ git clone <https://github.com/watermelonich/Typescript-Gym-WebApp.git>
 Navigate to the project directory using the following command:
 
 ```bash
-cd <typescript-gym-webapp-main>
+cd typescript-gym-webapp-main
 ```
 
 ### Step 3: Install Dependencies
